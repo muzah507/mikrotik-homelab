@@ -27,8 +27,8 @@ I am learning networking using MikroTik (RB750Gr3) by building a hands-on homela
 - [x] DHCP & NAT
 - [x] Multi LAN
 - [x] Firewall Basic
-- [ ] VLAN
-- [ ] Monitoring
+- [x] VLAN
+- [x] Monitoring
 
 ## 📌 Notes
 All configurations are tested in a personal homelab environment.
